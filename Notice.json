@@ -19,5 +19,12 @@
     "text": "This is a notice regarding notice3",
     "teacher": "Swarup Sir",
     "img":"https://raw.githubusercontent.com/Amar2107/Android_Assignment/main/img_res/09832_HD.jpg"
+  },
+  {
+    "title": "Notice4",
+    "date": "22 Oct 2020",
+    "text": "This is a notice regarding notice4",
+    "teacher": "Avinash Sir",
+    "img":"https://raw.githubusercontent.com/Amar2107/Android_Assignment/main/img_res/09839_HD.jpg"
   }
 ]

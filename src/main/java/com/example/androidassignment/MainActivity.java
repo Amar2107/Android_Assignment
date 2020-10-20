@@ -24,7 +24,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String jsonUrl="https://raw.githubusercontent.com/Amar2107/codechef/master/Notice.json";
+    private final String jsonUrl="https://raw.githubusercontent.com/Amar2107/Android_Assignment/main/Notice.json";
     private JsonArrayRequest request;
     private RequestQueue requestQueue;
     private List<Notice> noticeList;
