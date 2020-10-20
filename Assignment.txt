@@ -1,0 +1,11 @@
+1> revolution by back wheel = 225
+
+2> mans age  = 20
+
+
+3> Android_Assignment present at https://github.com/Amar2107/Android_Assignment.git
+   Json File present at the same locationa and 
+   images are present at https://github.com/Amar2107/Android_Assignment/tree/main/img_res
+
+   gradle.build is provided with all the dependencies used
+   
